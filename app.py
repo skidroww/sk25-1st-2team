@@ -16,7 +16,7 @@ class App:
             st.session_state.current_page = "충전소 현황"
 
         # 페이지 설정
-        st.set_page_config(page_title="SK25 2팀", layout="wide")
+        st.set_page_config(page_title="SK25 2팀!", layout="wide")
 
     def run(self):
         # 사이드바 렌더링
